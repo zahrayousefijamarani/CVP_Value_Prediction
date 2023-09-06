@@ -1,0 +1,4 @@
+mypredictor.o
+lib/*.o
+cvp
+1M.gz

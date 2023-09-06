@@ -2,3 +2,5 @@ mypredictor.o
 lib/*.o
 cvp
 1M.gz
+eves_mypredictor.cc
+eves_mypredictor.h
